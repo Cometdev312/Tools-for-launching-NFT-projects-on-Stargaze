@@ -308,3 +308,5 @@ STARGAZE TOOLS IS PROVIDED “AS IS”, AT YOUR OWN RISK, AND WITHOUT WARRANTIES
 ## Terms and Conditions
 
 By using this code you agree to the following [terms and conditions](TERMS).
+
+If you have some question with this project, feel free to reach out.
